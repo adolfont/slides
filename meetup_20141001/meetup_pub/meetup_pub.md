@@ -1,7 +1,4 @@
 ---
-author: Adolfo Neto
-title: Meetups
----
 # Meetups
 ## [Adolfo Neto](http://about.me/adolfont)
 

@@ -7,5 +7,20 @@
 - Como declarar função em Elixir
 - Exemplo de função não-pura (mais avançado e não deveria estar aqui)
 - Produto cartesiano?
+- Notação para indicar argumentos
+- iex
+- mix
+- Módulos
 
+## Funções de aridade 1
+
+## Funções de aridade 2
+
+- max
+
+## Função de aridade 3
+
+- max3
+  - Chamando max
+ 
 

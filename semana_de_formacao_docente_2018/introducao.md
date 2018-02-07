@@ -20,4 +20,4 @@
 ## Como descobri a Aprendizagem Ativa?
   - Não lembro
   - Mas lembro do evento CREARE PUC/PR em julho de 2015
-  - Eric Mazur (Harvard), "criador" do //Peer Learning// ministrou uma palestra. 
+  - Eric Mazur (Harvard), "criador" do *Peer Learning* ministrou uma palestra. 

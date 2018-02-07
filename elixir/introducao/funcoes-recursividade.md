@@ -1,7 +1,10 @@
 # Recursividade
 
 - fatorial
-  - testes automatizados 
+  - testes automatizados:
+    - fatorial(1) == 1
+    - fatorial(2) == 2
+    - fatorial(3) == 6
 - fibonacci
   - não eficiente
   - recursão apenas em cauda

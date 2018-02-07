@@ -15,3 +15,7 @@
       - 2017/1
         - 36 em Engenharia de Computação
         - 30 em Sistemas de Informação
+
+## Como descobri a Aprendizagem Ativa?
+  - Não lembro
+  - Mas lembro do evento CREARE PUC/PR em 

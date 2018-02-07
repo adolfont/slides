@@ -1,5 +1,9 @@
 # Introdução
 
+- O que é Lógica?
+
+- O que é uma proposição?
+
 - O que é um Argumento?
 
 - [Texto base: A Estrutura de um Argumento](http://www.dainf.ct.utfpr.edu.br/~adolfo/Disciplinas/LogicaParaComputacao_novo/MateriaisPorAssunto/1.IntroducaoALogica/Logica_JohnNolt_DenisRohatyn_pp_1_12.pdf)

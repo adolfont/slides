@@ -6,8 +6,8 @@
     - fatorial(2) == 2
     - fatorial(3) == 6
 - fibonacci
-  - não eficiente
-  - recursão apenas em cauda
+  - primeiro versão não eficiente
+  - depois com recursão apenas em cauda
 - FizzBuzz
   - TDD
   - fizz

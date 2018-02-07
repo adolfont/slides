@@ -4,7 +4,8 @@
 
 - Adolfo Neto
 - DAINF
-- Disciplinas:
+
+## Disciplinas
   - Lógica para Computação
     - 44 calouros de Engenharia de Computação
     - 44 alunos (que deveriam estar todos no segundo período se vivêssemos num mundo ideal) de Sistemas de Informação

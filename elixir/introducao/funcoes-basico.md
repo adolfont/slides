@@ -18,7 +18,7 @@
 
 - max
 
-## Função de aridade 3
+## Funções de aridade 3
 
 - max3
   - Chamando max
